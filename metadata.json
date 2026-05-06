@@ -1,0 +1,6 @@
+{
+  "name": "Remote True Value",
+  "description": "A calculator for comparing the true costs of commuting vs remote work, including hidden costs like time value and vehicle maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

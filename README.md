@@ -1,11 +1,33 @@
-<div align="center">
+# Remote True Value
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A specialized calculator designed to reveal the "True Value" difference between commuting to an office and working remotely. It accounts for obvious expenses (fuel, tolls) and hidden ones (time value, vehicle maintenance, lifestyle inflation).
 
-  <h1>Built with AI Studio</h2>
+## Project Details
+- **Account:** VibePool-lab
+- **Deployment URL:** [https://vibepool-lab.github.io/Remote-True-Value/](https://vibepool-lab.github.io/Remote-True-Value/)
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Tech Stack
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- Lucide React (Icons)
+- Framer Motion (Animations)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Getting Started
 
-</div>
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Run development server:
+   ```bash
+   npm run dev
+   ```
+3. Build for production:
+   ```bash
+   npm run build
+   ```
+
+## Deployment
+This project is configured to be deployed to GitHub Pages. The `base` path in `vite.config.ts` is set to `/Remote-True-Value/` for production builds.
