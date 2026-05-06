@@ -23,13 +23,7 @@ export default function PrivacyPolicy({ onBack }: { onBack: () => void }) {
           <h2 className="text-xl font-bold text-slate-900 mb-4">1. Data Collection</h2>
           <p>
             The Remote True Value tool is designed to work entirely in your browser. We do not collect, store, or transmit any of the data you enter into the calculator. All financial calculations and inputs remain local to your device session.
-          </p>
-        </section>
-
-        <section>
-          <h2 className="text-xl font-bold text-slate-900 mb-4">2. Cookies and Tracking</h2>
-          <p>
-            We do not use tracking cookies, analytics scripts, or third-party marketing pixels. This application is a utility tool provided without tracking for your privacy.
+            However, statistical cookies are collected by third-party services (eg. Google Analytics), without any personal data.
           </p>
         </section>
 
